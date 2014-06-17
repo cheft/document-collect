@@ -1,0 +1,4 @@
+serviceUrl=http://localhost:1225/DocumentWebServcie.asmx
+#serviceUrl=http://localhost:12333/DocumentWebServcie.asmx
+#serviceUrl=http://172.18.80.79:12333/DocumentWebServcie.asmx
+#serviceUrl=http://172.18.29.227:12333/DocumentWebServcie.asmx

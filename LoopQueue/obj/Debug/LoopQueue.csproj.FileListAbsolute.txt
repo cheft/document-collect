@@ -1,0 +1,28 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LoopQueue\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LoopQueue\bin\Debug\LoopQueue.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LoopQueue\bin\Debug\LoopQueue.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LoopQueue\bin\Debug\LoopQueue.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LoopQueue\bin\Debug\DocumentParser.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LoopQueue\bin\Debug\log4net.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LoopQueue\bin\Debug\ChilkatDotNet2.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LoopQueue\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LoopQueue\bin\Debug\itextsharp.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LoopQueue\bin\Debug\DocumentParser.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LoopQueue\obj\Debug\LoopQueue.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LoopQueue\obj\Debug\LoopQueue.pdb
+C:\Resources\Develop\DocumentCollect\LoopQueue\bin\Debug\LoopQueue.exe.config
+C:\Resources\Develop\DocumentCollect\LoopQueue\bin\Debug\LoopQueue.exe
+C:\Resources\Develop\DocumentCollect\LoopQueue\bin\Debug\LoopQueue.pdb
+C:\Resources\Develop\DocumentCollect\LoopQueue\bin\Debug\DocumentParser.dll
+C:\Resources\Develop\DocumentCollect\LoopQueue\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Resources\Develop\DocumentCollect\LoopQueue\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Resources\Develop\DocumentCollect\LoopQueue\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Resources\Develop\DocumentCollect\LoopQueue\bin\Debug\ChilkatDotNet2.dll
+C:\Resources\Develop\DocumentCollect\LoopQueue\bin\Debug\office.dll
+C:\Resources\Develop\DocumentCollect\LoopQueue\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Resources\Develop\DocumentCollect\LoopQueue\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Resources\Develop\DocumentCollect\LoopQueue\bin\Debug\itextsharp.dll
+C:\Resources\Develop\DocumentCollect\LoopQueue\bin\Debug\DocumentParser.pdb
+C:\Resources\Develop\DocumentCollect\LoopQueue\obj\Debug\ResolveAssemblyReference.cache
+C:\Resources\Develop\DocumentCollect\LoopQueue\obj\Debug\LoopQueue.exe
+C:\Resources\Develop\DocumentCollect\LoopQueue\obj\Debug\LoopQueue.pdb

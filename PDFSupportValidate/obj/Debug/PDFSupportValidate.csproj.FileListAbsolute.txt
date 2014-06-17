@@ -1,0 +1,17 @@
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\bin\Debug\PDFSupportValidate.exe.config
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\bin\Debug\PDFSupportValidate.exe
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\bin\Debug\PDFSupportValidate.pdb
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\bin\Debug\DocumentParser.dll
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\bin\Debug\ChilkatDotNet2.dll
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\bin\Debug\office.dll
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\bin\Debug\log4net.dll
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\bin\Debug\itextsharp.dll
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\bin\Debug\DocumentParser.pdb
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\obj\Debug\ResolveAssemblyReference.cache
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\obj\Debug\PDFSupportValidate.exe
+C:\Resources\Develop\DocumentCollect\PDFSupportValidate\obj\Debug\PDFSupportValidate.pdb

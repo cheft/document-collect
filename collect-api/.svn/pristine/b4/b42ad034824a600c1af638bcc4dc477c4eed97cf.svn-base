@@ -1,0 +1,86 @@
+package com.topway.doc.entity;
+
+
+public class RequestData {
+	
+    public int getIndent() {
+		return indent;
+	}
+
+	public void setIndent(int indent) {
+		this.indent = indent;
+	}
+
+	public int getIntParam() {
+		return intParam;
+	}
+
+	public void setIntParam(int intParam) {
+		this.intParam = intParam;
+	}
+
+	public String getServiceName() {
+		return serviceName;
+	}
+
+	public void setServiceName(String serviceName) {
+		this.serviceName = serviceName;
+	}
+
+	public int getSequence() {
+		return sequence;
+	}
+
+	public void setSequence(int sequence) {
+		this.sequence = sequence;
+	}
+
+	public String getStringParam() {
+		return stringParam;
+	}
+
+	public void setStringParam(String stringParam) {
+		this.stringParam = stringParam;
+	}
+
+	public String getDocName() {
+		return docName;
+	}
+
+	public void setDocName(String docName) {
+		this.docName = docName;
+	}
+
+	public String getFilename() {
+		return filename;
+	}
+
+	public void setFilename(String filename) {
+		this.filename = filename;
+	}
+	
+	public String getSplitParam() {
+		return splitParam;
+	}
+
+	public void setSplitParam(String splitParam) {
+		this.splitParam = splitParam;
+	}
+	
+	private int indent;
+	
+    private int intParam;
+
+    private String serviceName;
+
+    private int sequence;
+
+    private String stringParam;
+    
+    private String filename;
+
+	private String docName;
+	
+	private String splitParam;
+
+}

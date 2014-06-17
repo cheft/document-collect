@@ -1,0 +1,22 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DocumentCollect\DocumentParser\bin\Debug\DocumentParser.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DocumentCollect\DocumentParser\bin\Debug\DocumentParser.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DocumentCollect\DocumentParser\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DocumentCollect\DocumentParser\obj\Debug\DocumentParser.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DocumentCollect\DocumentParser\obj\Debug\DocumentParser.pdb
+C:\Resource\Develop\svn\DocumentCollect\DocumentParser\bin\Debug\DocumentParser.dll
+C:\Resource\Develop\svn\DocumentCollect\DocumentParser\bin\Debug\DocumentParser.pdb
+C:\Resource\Develop\svn\DocumentCollect\DocumentParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Resource\Develop\svn\DocumentCollect\DocumentParser\obj\Debug\DocumentParser.dll
+C:\Resource\Develop\svn\DocumentCollect\DocumentParser\obj\Debug\DocumentParser.pdb
+C:\Documents and Settings\Administrator\桌面\DocumentCollect\DocumentParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\DocumentCollect\DocumentParser\obj\Debug\DocumentParser.pdb
+D:\Resource\Develop\workspace\DocumentCollect\DocumentParser\bin\Debug\DocumentParser.dll
+D:\Resource\Develop\workspace\DocumentCollect\DocumentParser\bin\Debug\DocumentParser.pdb
+D:\Resource\Develop\workspace\DocumentCollect\DocumentParser\obj\Debug\DocumentParser.dll
+D:\Resource\Develop\workspace\DocumentCollect\DocumentParser\obj\Debug\DocumentParser.pdb
+C:\Resources\Develop\DocumentCollect\DocumentParser\bin\Debug\DocumentParser.dll
+C:\Resources\Develop\DocumentCollect\DocumentParser\bin\Debug\DocumentParser.pdb
+C:\Resources\Develop\DocumentCollect\DocumentParser\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Resources\Develop\DocumentCollect\DocumentParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Resources\Develop\DocumentCollect\DocumentParser\obj\Debug\DocumentParser.dll
+C:\Resources\Develop\DocumentCollect\DocumentParser\obj\Debug\DocumentParser.pdb

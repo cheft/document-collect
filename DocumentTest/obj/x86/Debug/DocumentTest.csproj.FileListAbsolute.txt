@@ -1,0 +1,49 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DocumentCollect\DocumentTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DocumentCollect\DocumentTest\bin\Debug\DocumentTest.exe.config
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DocumentCollect\DocumentTest\bin\Debug\DocumentTest.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DocumentCollect\DocumentTest\bin\Debug\DocumentTest.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DocumentCollect\DocumentTest\bin\Debug\DocumentParser.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DocumentCollect\DocumentTest\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DocumentCollect\DocumentTest\bin\Debug\itextsharp.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DocumentCollect\DocumentTest\bin\Debug\DocumentParser.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DocumentCollect\DocumentTest\obj\x86\Debug\DocumentTest.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\DocumentCollect\DocumentTest\obj\x86\Debug\DocumentTest.pdb
+C:\Resource\Develop\svn\DocumentCollect\DocumentTest\bin\Debug\DocumentTest.exe.config
+C:\Resource\Develop\svn\DocumentCollect\DocumentTest\bin\Debug\DocumentTest.exe
+C:\Resource\Develop\svn\DocumentCollect\DocumentTest\bin\Debug\DocumentTest.pdb
+C:\Resource\Develop\svn\DocumentCollect\DocumentTest\bin\Debug\DocumentParser.dll
+C:\Resource\Develop\svn\DocumentCollect\DocumentTest\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Resource\Develop\svn\DocumentCollect\DocumentTest\bin\Debug\itextsharp.dll
+C:\Resource\Develop\svn\DocumentCollect\DocumentTest\bin\Debug\DocumentParser.pdb
+C:\Resource\Develop\svn\DocumentCollect\DocumentTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Resource\Develop\svn\DocumentCollect\DocumentTest\obj\x86\Debug\DocumentTest.exe
+C:\Resource\Develop\svn\DocumentCollect\DocumentTest\obj\x86\Debug\DocumentTest.pdb
+D:\Resource\Develop\workspace\DocumentCollect\DocumentTest\bin\Debug\DocumentTest.exe.config
+D:\Resource\Develop\workspace\DocumentCollect\DocumentTest\bin\Debug\DocumentTest.exe
+D:\Resource\Develop\workspace\DocumentCollect\DocumentTest\bin\Debug\DocumentTest.pdb
+D:\Resource\Develop\workspace\DocumentCollect\DocumentTest\bin\Debug\DocumentParser.dll
+D:\Resource\Develop\workspace\DocumentCollect\DocumentTest\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Resource\Develop\workspace\DocumentCollect\DocumentTest\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+D:\Resource\Develop\workspace\DocumentCollect\DocumentTest\bin\Debug\office.dll
+D:\Resource\Develop\workspace\DocumentCollect\DocumentTest\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Resource\Develop\workspace\DocumentCollect\DocumentTest\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Resource\Develop\workspace\DocumentCollect\DocumentTest\bin\Debug\itextsharp.dll
+D:\Resource\Develop\workspace\DocumentCollect\DocumentTest\bin\Debug\DocumentParser.pdb
+D:\Resource\Develop\workspace\DocumentCollect\DocumentTest\obj\x86\Debug\DocumentTest.csprojResolveAssemblyReference.cache
+D:\Resource\Develop\workspace\DocumentCollect\DocumentTest\obj\x86\Debug\DocumentTest.exe
+D:\Resource\Develop\workspace\DocumentCollect\DocumentTest\obj\x86\Debug\DocumentTest.pdb
+C:\Resources\Develop\DocumentCollect\DocumentTest\bin\Debug\DocumentTest.exe.config
+C:\Resources\Develop\DocumentCollect\DocumentTest\bin\Debug\DocumentTest.exe
+C:\Resources\Develop\DocumentCollect\DocumentTest\bin\Debug\DocumentTest.pdb
+C:\Resources\Develop\DocumentCollect\DocumentTest\bin\Debug\DocumentParser.dll
+C:\Resources\Develop\DocumentCollect\DocumentTest\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Resources\Develop\DocumentCollect\DocumentTest\bin\Debug\Microsoft.Office.Interop.PowerPoint.dll
+C:\Resources\Develop\DocumentCollect\DocumentTest\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Resources\Develop\DocumentCollect\DocumentTest\bin\Debug\office.dll
+C:\Resources\Develop\DocumentCollect\DocumentTest\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Resources\Develop\DocumentCollect\DocumentTest\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Resources\Develop\DocumentCollect\DocumentTest\bin\Debug\itextsharp.dll
+C:\Resources\Develop\DocumentCollect\DocumentTest\bin\Debug\DocumentParser.pdb
+C:\Resources\Develop\DocumentCollect\DocumentTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Resources\Develop\DocumentCollect\DocumentTest\obj\x86\Debug\DocumentTest.exe
+C:\Resources\Develop\DocumentCollect\DocumentTest\obj\x86\Debug\DocumentTest.pdb
